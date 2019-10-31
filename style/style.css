@@ -24,3 +24,16 @@ h3{
 	color: blue;
 	text-align: center;
 }
+p{
+	font-style: normal;
+	font-family: "Times New Roman";
+	color: white;
+	background-color: black;
+	text-align: left;
+	background-origin: content-box;
+	
+	display: inline-block;
+	
+	
+}
+
