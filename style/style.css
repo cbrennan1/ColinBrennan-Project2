@@ -43,4 +43,25 @@ img{
      height:15%;
 	 display: block;
  }
+nav {
+  font-family: 'Noto Serif', serif;
+  font-weight: 600;
 
+  color: white;
+  text-align: center;
+  padding: 10px;
+  
+  clear: both;
+ 
+}
+nav ul {
+  list-style-type: none;
+  padding: 18px;
+  overflow: hidden;
+}
+nav li {
+	font-weight: 600;
+	color: white;
+	font-family: "Times New Roman";
+   display:inline-block;
+}
